@@ -1,4 +1,4 @@
 @extends ('template')
 @section ('PageContent')
-<h1>This is Service Page</h1>
+<h1>This is Service Page for ecommerce</h1>
 @endsection
